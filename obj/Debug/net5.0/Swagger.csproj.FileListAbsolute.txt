@@ -1,0 +1,74 @@
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\appsettings.json
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Swagger.exe
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Swagger.deps.json
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Swagger.runtimeconfig.json
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Swagger.runtimeconfig.dev.json
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Swagger.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\ref\Swagger.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Swagger.pdb
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marco\source\repos\Swagger\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.AssemblyInfo.cs
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\staticwebassets\Swagger.StaticWebAssets.Manifest.cache
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\staticwebassets\Swagger.StaticWebAssets.xml
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\scopedcss\bundle\Swagger.styles.css
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.RazorTargetAssemblyInfo.cache
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.csproj.CopyComplete
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.dll
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\ref\Swagger.dll
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.pdb
+C:\Users\marco\source\repos\Swagger\obj\Debug\net5.0\Swagger.genruntimeconfig.cache
+E:\Programas en C#\Swagger\bin\Debug\net5.0\appsettings.Development.json
+E:\Programas en C#\Swagger\bin\Debug\net5.0\appsettings.json
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Swagger.exe
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Swagger.deps.json
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Swagger.runtimeconfig.json
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Swagger.runtimeconfig.dev.json
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Swagger.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\ref\Swagger.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Swagger.pdb
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programas en C#\Swagger\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.csprojAssemblyReference.cache
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.AssemblyInfoInputs.cache
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.AssemblyInfo.cs
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.csproj.CoreCompileInputs.cache
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.MvcApplicationPartsAssemblyInfo.cs
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.MvcApplicationPartsAssemblyInfo.cache
+E:\Programas en C#\Swagger\obj\Debug\net5.0\staticwebassets\Swagger.StaticWebAssets.Manifest.cache
+E:\Programas en C#\Swagger\obj\Debug\net5.0\staticwebassets\Swagger.StaticWebAssets.xml
+E:\Programas en C#\Swagger\obj\Debug\net5.0\scopedcss\bundle\Swagger.styles.css
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.RazorTargetAssemblyInfo.cache
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.csproj.CopyComplete
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.dll
+E:\Programas en C#\Swagger\obj\Debug\net5.0\ref\Swagger.dll
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.pdb
+E:\Programas en C#\Swagger\obj\Debug\net5.0\Swagger.genruntimeconfig.cache
